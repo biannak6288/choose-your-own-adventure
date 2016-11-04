@@ -3,4 +3,4 @@
 Do you identify yourself as a **male** or a **female**   
 [I am a male](male.md)  
 or  
-[I am a female](female/female.md)
+[I am a female](female.md)
