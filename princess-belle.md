@@ -3,8 +3,8 @@
 or   
 * you do the right thing and continue with your job  
 ---
-[Back to female](../female.md)
-[start over](../start.md)
+[Back to female](female.md)
+[start over](start.md)
 
 
 
