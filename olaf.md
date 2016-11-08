@@ -5,5 +5,3 @@ or
 ---
 [Back to male](male.md)  
 [start over](start.md)
-
-
