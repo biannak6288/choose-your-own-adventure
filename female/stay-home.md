@@ -3,4 +3,4 @@
 **You Die!**  
 
 ---
-[start over](start.md)
+[start over](../beginning/start.md)

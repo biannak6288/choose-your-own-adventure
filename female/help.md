@@ -2,4 +2,4 @@
 ## You **die on the streets!**
 
 ---
-[start over](start.md)
+[start over](../beginning/start.md)
