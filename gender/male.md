@@ -1,6 +1,6 @@
 # **Which Disney character would you want to be?**  
-### [Olaf](olaf.md)  
-### [The Beast](the-beast.md)  
-### [Shrek](shrek.md)
+### [Olaf](../male/olaf.md)  
+### [The Beast](../male/the-beast.md)  
+### [Shrek](../male/shrek.md)
 ---
-[start over](start.md)
+[start over](..start.md)
