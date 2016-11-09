@@ -1,3 +1,4 @@
+![](olaf.jpg)
 ## You see huntsmen in the forest and they are about to kidnap you, so you play hide and seek with them...  
 ### [You rather have them find you sitting on top of a tree and shoot you](death.md)  
 or  
