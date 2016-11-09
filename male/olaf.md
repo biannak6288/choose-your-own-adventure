@@ -3,5 +3,5 @@
 or  
 ### [You agree to help them by joining forces and hunting for animals to eat rather than them eating you!](death.md)
 ---
-[Back to male](male.md)  
+[Back to male](../gender/male.md)  
 [start over](../beginning/start.md)

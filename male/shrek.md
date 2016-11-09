@@ -3,7 +3,7 @@
 or  
 ### [You kick the tree and it ends up falling on you](continue.md)  
 ---
-[Back to male](male.md)  
+[Back to male](../gender/male.md)  
 [start over](../beginning/start.md)  
 
 

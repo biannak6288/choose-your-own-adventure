@@ -3,6 +3,6 @@
 or  
 ### [You fall into the pond and end up adapting to the life of an amphibian. You live with the fish for the rest of your life!](death.md)
 ---
-[Back to male](../male.md)  
+[Back to male](../gender/male.md)  
 [start over](../beginning/start.md)
 
