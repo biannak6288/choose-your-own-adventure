@@ -3,4 +3,4 @@
 ### [Snowwhite](snowwhite.md)  
 ### [Princess Tiana](princess-tiana.md)  
 ---
-[start over](start.md)
+[start over](../beginning/start.md)
