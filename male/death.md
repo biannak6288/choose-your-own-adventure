@@ -2,4 +2,4 @@
 ### You die!
 
 ---
-[start over](start.md)
+[start over](../beginning/start.md)

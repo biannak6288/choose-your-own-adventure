@@ -2,4 +2,4 @@
 ## How Awful!
 
 ---
-[start over](start.md)
+[start over](../beginning/start.md)

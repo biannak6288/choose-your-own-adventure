@@ -4,6 +4,6 @@ or
 ### [You kick the tree and it ends up falling on you](continue.md)  
 ---
 [Back to male](male.md)  
-[start over](start.md)  
+[start over](../beginning/start.md)  
 
 
