@@ -1,3 +1,4 @@
+![](Princess-Tiana.jpg)
 ## You work in a barn on a farm in the South of the United States, you either choose to...  
 ### [Feed the chickens](chickens.md)  
 or  
