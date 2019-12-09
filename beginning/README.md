@@ -1,4 +1,3 @@
-## Click here to [start](start.md)  
-## Click here to view our [diagram](https://docs.google.com/drawings/d/128A-aXWMygN5W0xHZBGW3sGXk4K4_IPgk6Y6oPkj4UE/edit)  
-## Made by [Bianna Krubitski](https://github.com/biannak6288) and [Brittany Misacango](https://github.com/brittanym3578)  
-Our project depicted Disney fairytail characters and the overall moral of a fairytail story with many unique endings. It was supposed to be a flashback to the past of our childhood experience with Disney! Overall this project helped us better develop our understanding of collaboration with git and github and helped us further understand the way merge conflicts work.
+## Click here to [begin](begin.md)  
+## Made by [Bianna Krubitski](https://github.com/biannak6288)
+My final salon project for this class circles itself around the various theoris of ehtics we have learned this semester. I decided to create a 'choose your own adventure' interactive activity/quiz to determine whether the user relates more to Mill's, Kant's, Aristotle's or the philosophy of care ethics. Basically it is all in the users hands to determine who they best represent. Moreover, it is supposed to be an interesting and rather pleasant experience for all, though educational at the same time. So, please enjoy and try it out!
